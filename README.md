@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DansoAppiah
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in sql
+- 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me pascal_3040 instagram
 - 😄 Pronouns: ...
