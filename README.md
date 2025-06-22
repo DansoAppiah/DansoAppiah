@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DansoAppiah
-- 👀 I’m interested in sql
+- 👀 I’m interested in python
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me pascal_3040 instagram
+- 💞️ I’m looking to collaborate on project in penetration testing 
+- 📫 How to reach me pascal_3040 @ snap
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
